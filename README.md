@@ -53,7 +53,7 @@ Once you have your own twitter API keys, these two notebooks should enable you t
 <img src="img/twitter_keys.png" width="600" height="227" title="screenshot">
 </p>
  
- <b>Warning Generating Twitter API keys isn't a simple 5 minute process. It can take anywhere from minutes to weeks to get a Twitter Developer account approved so you can generate API keys - so have some patience and plan ahead!</b>
+ <b>Warning</b> Generating Twitter API keys isn't a simple 5 minute process. It can take anywhere from minutes to weeks to get a Twitter Developer account approved so you can generate API keys - so have some patience and plan ahead!
  
 To create a Twitter Developer account, visit <a href="https://developer.twitter.com/en/apply-for-access.html">Twitter Developer</a> and apply for access. 
 
